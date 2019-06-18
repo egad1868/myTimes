@@ -82,6 +82,8 @@ body {
   border: dotted 2px green;
   background-repeat: no-repeat;
   background-position: top;
+  flex-wrap: wrap;
+
 }
 .row.large1 {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
