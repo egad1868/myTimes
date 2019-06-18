@@ -8,9 +8,11 @@ body {
   font-size: 14px;
   font-weight: bold;
   padding: 20px;
+  flex-wrap: nowrap;
+
 
 }
-.nav a {
+.nav span a {
   display: inline-flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -23,4 +25,5 @@ body {
   align-items: flex-start;
   justify-content: space-between;
   width: 200px;
+  flex-wrap: nowrap;
 }
