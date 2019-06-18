@@ -9,21 +9,19 @@ body {
   font-weight: bold;
   padding: 20px;
   flex-wrap: nowrap;
+  }
 
+.header .nav>span>a {
+    display: inline-flex;
+    align-items: center;
+    align-content: flex-end;
+    justify-content: space-around;
+    width: 100px;
+    padding: 10px 0;
+    color: black;
+    }
 
-
-}
-.nav span a {
-  display: inline-flex;
-  align-items: center;
-  align-content: flex-end;
-  justify-content: space-around;
-  width: 100px;
-  padding: 10px 0;
-  color: black;
-
-}
-.logo a {
+.header .logo>a {
   color: mediumAquamarine;
   align-items: center;
   align-content: flex-start;
