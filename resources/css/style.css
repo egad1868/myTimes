@@ -2,20 +2,25 @@ body {
 
 }
 
-.header a {
+.header {
   display: flex;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  padding: 20px;
 
 }
-.nav {
+.nav a {
   display: inline-flex;
   align-items: flex-end;
   justify-content: space-between;
+  width: 80px;
+  color: black;
+  padding: 10px 0;
 }
 .logo a {
   color: mediumAquamarine;
   align-items: flex-start;
   justify-content: space-between;
+  width: 200px;
 }
