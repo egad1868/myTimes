@@ -1,6 +1,11 @@
 body {
   font-family: Georgia;
   font-size: 17px;
+  color: black;
+}
+
+a {
+  color: black;
 }
 /*Header*/
 header {
@@ -32,7 +37,7 @@ header nav {
 }
 
 /*^^What I missed^^*/
-.logo a {
+.logo span {
   color: mediumAquamarine;
   padding: 0 20px;
   width: 200px;
