@@ -9,16 +9,16 @@ body {
   font-weight: bold;
   padding: 20px;
   flex-wrap: nowrap;
-
+  align-items: center;
   }
 
 span.nav a {
     display: inline-flex;
-    align-content: flex-end;
     justify-content: space-around;
     width: 100px;
     padding: 10px 0;
     color: black;
+    align-content: flex-end;
     }
 
 .logo a {
