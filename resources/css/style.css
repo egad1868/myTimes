@@ -11,14 +11,15 @@ body {
   flex-wrap: nowrap;
 
 
+
 }
 .nav span a {
   display: inline-flex;
   align-items: flex-end;
   justify-content: space-between;
-  width: 80px;
-  color: black;
+  width: 100px;
   padding: 10px 0;
+  color: black;
 }
 .logo a {
   color: mediumAquamarine;
