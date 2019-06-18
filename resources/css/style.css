@@ -2,7 +2,7 @@ body {
 
 }
 
-.header {
+.header a {
   display: flex;
   font-family: Verdana;
   font-size: 14px;
@@ -14,7 +14,7 @@ body {
   align-items: flex-end;
   justify-content: space-between;
 }
-.logo {
+.logo a {
   color: mediumAquamarine;
   align-items: flex-start;
   justify-content: space-between;
